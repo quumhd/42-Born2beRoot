@@ -1,6 +1,6 @@
 This project has been created as part of the 42 curriculum by jdreissi
 
-We created a virutal machine using Debian or Rocky Linux 
+We had to created a virutal machine using Debian or Rocky Linux 
 
 while also setting up the following rules:
 
@@ -13,9 +13,9 @@ while also setting up the following rules:
 	- enabling TTY mode
 	- a monitoring script that displays various informations about the system and gets executed every 10 minutesA
 
-Debian vs Rocky Linux 
+**Debian vs Rocky Linux**
 
-Debian:
+Debian
 
 	- more beginner friendly
 	- easier software management
@@ -23,13 +23,13 @@ Debian:
 	- focuses on stability, freedom and versatility
 	- more flexible
 
-Rocky Linux;
+Rocky Linux
 
 	- designed for enterprise systems
 	- stricter system design
 
 
-AppArmor vs SELinux
+**AppArmor vs SELinux**
 
 	- restrict the access of programs
 	- limits damages when one program gets hacked
@@ -46,7 +46,7 @@ SELinux
 	- uses security labels to manage the programs
 
 
-UFW vs firewalld
+**UFW vs firewalld**
 
 	- firewall managers
 	- manage network connections
@@ -65,7 +65,7 @@ firewalld
 	- allows live updates
 
 
-VirtualBox vs UTM
+**VirtualBox vs UTM**
 
 VirtualBox
 
@@ -80,3 +80,10 @@ UTM
 	- uses native Apple virtualisation
 	- can do virtualisation and emulation
 	- works flawlessly on Apple Silicon
+
+Resources
+
+	- https://github.com/ayoub0x1/born2beroot
+	- https://github.com/chlimous/42-born2beroot_guide
+	- AI was used to reseach how the different programs work and how to set some of then up
+	- AI was used to reseach different commands and to understand how they exactly work
