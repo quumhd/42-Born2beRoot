@@ -27,7 +27,6 @@ Rocky Linux;
 
 	- designed for enterprise systems
 	- stricter system design
-	- 
 
 
 AppArmor vs SELinux
