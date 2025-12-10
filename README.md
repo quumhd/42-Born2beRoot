@@ -1,7 +1,7 @@
 This project has been created as part of the 42 curriculum by jdreissi
 
 
-#Born2beroot
+# Born2beroot
 
 We had to created a virutal machine using Debian or Rocky Linux 
 
