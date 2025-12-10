@@ -33,10 +33,12 @@ AppArmor vs SELinux
 	- limits damages when one program gets hacked
 
 AppArmor
+
 	- easier to learn
 	- path based rules (weaker security)
 
 SELinux
+
 	- extremly strong security
 	- harder to learn and setup
 	- uses security labels to manage the programs
@@ -49,10 +51,12 @@ UFW vs firewalld
 	- protect against unwanted network access
 
 UFW
+
 	- easy to use, perfect for beginners
 	- limited advanced features
 
 firewalld
+
 	- hard to setup
 	- uses different zones for the rules
 	- designed for complex servers
@@ -62,12 +66,14 @@ firewalld
 VirtualBox vs UTM
 
 VirtualBox
+
 	- works on Windows, Linux and MacOS
 	- uses x86 virtualisaiton
 	- open source
 	- Apple Silicon support is limited and slower
 
 UTM
+
 	- MacOS only
 	- uses native Apple virtualisation
 	- can do virtualisation and emulation
