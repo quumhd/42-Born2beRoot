@@ -3,6 +3,7 @@ This project has been created as part of the 42 curriculum by jdreissi
 We created a virutal machine using Debian or Rocky Linux 
 
 while also setting up the following rules:
+
 	- creating at least 2 encrypted partitions using LVM
 	- SSH serices at port 4242 that cannot be accessed using root
 	- hostname has to be intraname + 42
@@ -15,6 +16,7 @@ while also setting up the following rules:
 Debian vs Rocky Linux 
 
 Debian:
+
 	- more beginner friendly
 	- easier software management
 	- massice community support
@@ -22,6 +24,7 @@ Debian:
 	- more flexible
 
 Rocky Linux;
+
 	- designed for enterprise systems
 	- stricter system design
 	- 
